@@ -32,7 +32,7 @@ It consists of 4 main parts:
 # Prerequisities
 LFG has been tested in the latest (as of 01/12/2023) Blender 4.0.1 version.
 It requires 2 seperate addons that come preinstalled with Blender to be enabled. These are:
-  - The "A.N.T. Landscape" addon and
+  - The "Add Mesh: A.N.T.Landscape" addon and
   - The "3D-print: toolbox" addon
 
 # How to install:
@@ -46,6 +46,7 @@ That's it! you can now use the addon however you like.
 
 # Documentation:
 The
+This is the easy way for creating a landscape. Of course, you could use the A.N.T.Landscape addon however you want and/or do some easy sculpting on Blender (for example to add bigger hills)
 For more details you can refer to the Blender documentation of the addon [here](url)
 
 ## Notes:
