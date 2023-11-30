@@ -13,7 +13,7 @@ It consists of 4 main parts:
 
 [images] 
 
-## Advantages
+### Advantages
   - Inexhaustible amount of 3D landfill models
   - High realism:
     - Scanned ground textures from drones
@@ -24,7 +24,7 @@ It consists of 4 main parts:
   - Easy import into Unreal Engine (has been tested for .glb export in Unreal Engine 4 and 5)
   - Expandable collections. Anyone can use their own materials, objects, landscapes and generally 3D models.
 
-## Disadvantages
+### Disadvantages
   - You need to wait for the simulation to end until you have realisticly formed piles (this could be cubersome is slower computer)
 
 # Motivation
