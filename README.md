@@ -22,6 +22,10 @@ It consists of 4 main parts:
     - Rigid-body physics (no overlapping of objects, and natural pile formation)
   - Volume ground truth
   - Easy import into Unreal Engine (has been tested for .glb export in Unreal Engine 4 and 5)
+  - Expandable collections. Anyone can use their own materials, objects, landscapes and generally 3D models.
+
+## Disadvantages
+  - You need to wait for the simulation to end until you have realisticly formed piles (this could be cubersome is slower computer)
 
 # Motivation
 
@@ -43,6 +47,10 @@ That's it! you can now use the addon however you like.
 # Documentation:
 The
 For more details you can refer to the Blender documentation of the addon [here](url)
+
+## Notes:
+  - Do not change the name of the pile or object collections after importing or things will break
+  - If you want to add your own object collections do so in the collections.blend file 
 
 # Credit
 This addon relies on different 3D models and addons. Below is a list of the creators and their corresponding work:
