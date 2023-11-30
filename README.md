@@ -6,6 +6,7 @@ It consists of 4 main parts:
   3) Preparation for Export
   4) Volume estimation
 
+So what do these do?
 1) The **Landscape Generation** generates a realistic landscape (with a randomly selected drone-captured texture, and random topography).
 2) The **Pile Generation** first generates waste in the shape of a cone for any chosen collection, with randomness in scale, location and rotation. Then the next step is letting the Blender simulation run until the waste fall into place forming an accurate pile. You can create as many piles as you want and of any type this way.
 3) The **Preparation for Export** section allows you to apply the transformation of the piles and join the objects into one entity.
@@ -34,6 +35,7 @@ LFG has been tested in the latest (as of 01/12/2023) Blender 4.0.1 version.
 It requires 2 seperate addons that come preinstalled with Blender to be enabled. These are:
   - The "Add Mesh: A.N.T.Landscape" addon and
   - The "3D-print: toolbox" addon
+One last thing needed is to download the files in this [google drive](url) and place them inside the folder. This is so that you can have the prescanned landscapes and object collections (they were too big for github).
 
 # How to install:
 After you made sure the prequisite addons are enabled and after you downloaded the zip file and extract it:
