@@ -124,6 +124,7 @@ If you would like to use your own objects, landscapes or textures you can do so 
 
 
 # Notes:
+  - The Mountainous terrain is large and complex coupled with object phyciques as they fall it might end up crashing the Blender project
   - Do not change the name of the pile or object collections after importing or things will break
   - If you want to add your own object collections do so in the collections.blend file 
 
