@@ -1,0 +1,11 @@
+All 3D models were taken from sketchfab under CC Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/#ref-appropriate-credit)
+They were slightly altered
+
+Landscapes: 
+	- BLM twin angels (https://sketchfab.com/3d-models/twin-angels-8a759cde7f17443da185890c21d6d01f)
+	- EAF small rock (https://sketchfab.com/3d-models/eaf-biranupzone-swmtandrew-area4-81bd43632b274b0c80358eb30a66ccba)
+	- LasloS nature (https://sketchfab.com/3d-models/photogrammetry-3d-scan-nature-landscape-7b0eee8cae194d5c9aeea8b9f962bfe3)
+	
+Objects:
+	- Tyres: Lassi Kaukonen (https://sketchfab.com/thesidekick)
+	- Kitchen Appliances: Nicolai Kilstrup (https://sketchfab.com/3d-models/kitchen-appliances-0b01a398fe1649aaacd6ebdf85bf5d6c)
