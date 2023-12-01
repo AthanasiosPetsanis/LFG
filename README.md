@@ -42,6 +42,11 @@ So what do these do?
 # How to install:
 Watch the video below or follow the instructions. 
 
+
+https://github.com/AthanasiosPetsanis/LFG/assets/54399132/5c4be64e-d2cf-41f4-959b-4c3b568b8780
+
+
+
 ### Prerequisities
 LFG has been tested in the latest (as of 01/12/2023) Blender 4.0.1 version.
 It requires 2 seperate addons that come preinstalled with Blender to be enabled. These are:
