@@ -1,3 +1,7 @@
+All ground_textures used publically available under CC0 and can be found on PolyHaven
+https://polyhaven.com/textures/aerial
+
+
 All 3D models were taken from sketchfab under CC Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/#ref-appropriate-credit)
 They were slightly altered
 
