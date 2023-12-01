@@ -74,9 +74,37 @@ That's it! you can now use the addon however you like.
 
 
 # Documentation:
-The
+Watch the video or read the description below:
+
+
+https://github.com/AthanasiosPetsanis/LFG/assets/54399132/3c239845-ee22-4884-b261-f744a7b3c1b7
+
+
+
+Let's take it section-by-section:
+  1) Landscape Generation:
+       - Width: The width of the landscape
+       - Length: The length of the landscape
+       - Height: The average height of the landscape hills (they are randomly generated)
+       - Max Height: The maximum height of the hills allowed
+       - Min Height: The minimum height of the hills allowed
+       - Texture: The texture of the landscape (random by default or you can select a texture from the dropdown menu)
+       - Create Landscape button: Generates the landscape with the above properties
+       - Load Landscape button: Loads the selected landscape from the dropdown menu on the right of the button (these are real landscapes scanned with UAVs)
+  2) Pile Generation:
+       - Radius: The radius of the cone-pile
+       - Depth: The depth of the cone-pile
+       - Density: The density of the objects inside the cone-pile
+       - Objects scale: The scale of the objects inside the cone-pile (default 1 is the original, realistic scale)
+       - Collection: The collection of objects that the cone-pile will consist of (Instances are picked randomly from that collection)
+         There are currently 5 different collections currently which you can see in the collecion.blend file you downloaded from the google drive. These are
+         - Woods, - Plastics, - Kitchen_Appliances, - Metals, - Tyres
+       - Create Pile button: Creates the pile with the above properties
+       - Estimate Volume button: Estimates the volume of each pile
+       - Play/Pause buttons: Begin/Stop the animation
+  3) 
 This is the easy way for creating a landscape. Of course, you could use the A.N.T.Landscape addon however you want and/or do some easy sculpting on Blender (for example to add bigger hills)
-For more details you can refer to the Blender documentation of the addon [here](url)
+
 
 ## Notes:
   - Do not change the name of the pile or object collections after importing or things will break
