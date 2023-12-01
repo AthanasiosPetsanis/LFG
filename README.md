@@ -49,12 +49,14 @@ It requires 2 seperate addons that come preinstalled with Blender to be enabled.
 
 One last thing needed is to download the files in this [google drive](https://drive.google.com/drive/folders/1ZYW_dM9MNbglxhVGaa26qd7RBJJUuXMa?usp=sharing) and place them inside the folder (and unzip them). This is so that you can have the prescanned landscapes and object collections (they were too big for github).
 
-
-After you made sure the prequisite addons are enabled and after you downloaded the zip file and extract it:
-  1) In Blender, go to Edit --> Preferences --> Addons and click install at the top right 
-  2) Then select the lfg.zip file inside of the extracted file.
-  3) The addon is located in the Panel section. Click on the Panel "LFG"
-  4) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects.
+### Addon Install
+After you made sure the prequisite addons are enabled and after you downloaded the zip file of this github project and extracted it:
+  1) In Blender, go to Edit --> Preferences --> Addons and click install at the top right
+     ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/ebc5dcaa-f0a2-4a6f-9cba-6c54ba903ad4)  ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/26de24ed-db84-4c83-804b-a57c96f419d5)
+     
+  3) Then select the lfg.zip file inside of the extracted file.
+  4) The addon is located in the 3D-View Panel section. Click on the Panel "LFG"
+  5) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects.
 That's it! you can now use the addon however you like.
 
 
