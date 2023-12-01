@@ -97,12 +97,29 @@ Let's take it section-by-section:
        - Density: The density of the objects inside the cone-pile
        - Objects scale: The scale of the objects inside the cone-pile (default 1 is the original, realistic scale)
        - Collection: The collection of objects that the cone-pile will consist of (Instances are picked randomly from that collection)
-         There are currently 5 different collections currently which you can see in the collecion.blend file you downloaded from the google drive. These are
-         - Woods, - Plastics, - Kitchen_Appliances, - Metals, - Tyres
+         There are currently 5 different collections currently which you can see in the collecion.blend file you downloaded from the google drive. These are:
+         Woods, Plastics, Kitchen_Appliances, Metals, Tyres
        - Create Pile button: Creates the pile with the above properties
        - Estimate Volume button: Estimates the volume of each pile
        - Play/Pause buttons: Begin/Stop the animation
-  3) 
+  3) Utilities:
+       - ApplyTransformations button: Applies the all transformations to all objects for all piles (This is useful so that you do not lose the current placement of the objects)
+       - Join Objects button: Joins all objects from all piles along with the "Landscape" object in one single object (This is usefull if you want to import to Unreal Engine for example)
+    
+  ### Expanding
+  If you would like to use your own objects, landscapes or textures you can do so in the following ways:
+      **Objects:** Open the "collection.blend" file you downloaded from the google drive and create a new collection with your objects or add them inside existing collections
+      **Landscapes:** Open the "landscapes.blend" file you downloaded from the google drive and create a new collection with the landscape object you want to include (or just import it).
+      **Textures:** Go to the Ground Textures folder inside the LFG-main folder and add the folder with the textures. Make sure that the folder you add has the following hierarchy:
+        - Texture_name/
+            - textures/
+                - Texture_name_diff.jpg
+                - Texture_name_disp.png
+                - Texture_name_nor_gl.exr
+                - Texture_name_rough.jpg
+      The _diff is for the diffusion, _disp for the displacement, nor_gl for the normal map and rough for the roughness. You can find more such textures [here](https://polyhaven.com/textures/aerial)
+      
+
 This is the easy way for creating a landscape. Of course, you could use the A.N.T.Landscape addon however you want and/or do some easy sculpting on Blender (for example to add bigger hills)
 
 
