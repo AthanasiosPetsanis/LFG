@@ -35,8 +35,8 @@ So what do these do?
   - Evaluation of photogrammetry algorithms for landfills (we now have the 3D model ground-truth)
   - Evaluation of volumetry algorithms (we now the volume ground-truth of the waste)
   - Augmentation of landfill UAV images with synthetic image data of realistic landfills
-There have been few publically available datasets involving UAV images from real landfills. It is a well-known strategy to augment datasets with synthetic data and there exist drone simulators for capturing images in the virtual world. LFG 
-
+  - Easy creation of 3D landfills models (market landfills are often expensive, hard to find, lack variety and unrealistic)
+  - Other uses of 3D landfill models
 
 # How to install:
 Watch the video below or follow the instructions. 
@@ -57,8 +57,6 @@ After you made sure the prequisite addons are enabled and after you downloaded t
   4) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects.
 That's it! you can now use the addon however you like.
 
-
-https://github.com/AthanasiosPetsanis/LFG/assets/54399132/4706d96b-19b6-42f6-98d1-c320321493a6
 
 
 # Documentation:
