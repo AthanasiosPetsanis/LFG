@@ -5,6 +5,8 @@ It consists of 4 main parts:
   2) The Pile Generation
   3) Volume estimation and
   4) Utilities
+
+     
 ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/dd041d95-05b5-4d0b-b200-cc3fe4b32f71)
 
 So what do these do?
@@ -45,17 +47,23 @@ LFG has been tested in the latest (as of 01/12/2023) Blender 4.0.1 version.
 It requires 2 seperate addons that come preinstalled with Blender to be enabled. These are:
   - The "Add Mesh: A.N.T.Landscape" addon and
   - The "3D-print: toolbox" addon
+![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/d1205099-bb31-4665-bdd6-e3c723bab4e7)
 
 One last thing needed is to download the files in this [google drive](https://drive.google.com/drive/folders/1ZYW_dM9MNbglxhVGaa26qd7RBJJUuXMa?usp=sharing) and place them inside the folder (and unzip them). This is so that you can have the prescanned landscapes and object collections (they were too big for github).
 
 ### Addon Install
 After you made sure the prequisite addons are enabled and after you downloaded the zip file of this github project and extracted it:
   1) In Blender, go to Edit --> Preferences --> Addons and click install at the top right
-     ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/ebc5dcaa-f0a2-4a6f-9cba-6c54ba903ad4)  ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/26de24ed-db84-4c83-804b-a57c96f419d5)
+     ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/ebc5dcaa-f0a2-4a6f-9cba-6c54ba903ad4)  ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/26de24ed-db84-4c83-804b-a57c96f419d5) 
      
   3) Then select the lfg.zip file inside of the extracted file.
-  4) The addon is located in the 3D-View Panel section. Click on the Panel "LFG"
-  5) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects.
+     ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/288d93aa-adf7-47cf-a220-384d6246182b)
+     
+  5) Enable the addon the same way as with the previous addons
+     ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/a912aa1a-3646-4700-9f68-c8696c5f475a)
+
+  7)  The addon is located in the 3D-View Panel section. Click on the Panel "LFG"
+  8) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects.
 That's it! you can now use the addon however you like.
 
 
