@@ -91,6 +91,8 @@ Let's take it section-by-section:
        - Texture: The texture of the landscape (random by default or you can select a texture from the dropdown menu)
        - Create Landscape button: Generates the landscape with the above properties
        - Load Landscape button: Loads the selected landscape from the dropdown menu on the right of the button (these are real landscapes scanned with UAVs)
+     
+     This is the easy way for creating a landscape. Of course, you could use the A.N.T.Landscape addon however you want and/or do some easy sculpting on Blender (for example to add bigger hills)
   2) Pile Generation:
        - Radius: The radius of the cone-pile
        - Depth: The depth of the cone-pile
@@ -117,13 +119,11 @@ If you would like to use your own objects, landscapes or textures you can do so 
             - Texture_name_disp.png
             - Texture_name_nor_gl.exr
             - Texture_name_rough.jpg
+    
     The _diff is for the diffusion, _disp for the displacement, nor_gl for the normal map and rough for the roughness. You can find more such textures [here](https://polyhaven.com/textures/aerial)
-      
-
-This is the easy way for creating a landscape. Of course, you could use the A.N.T.Landscape addon however you want and/or do some easy sculpting on Blender (for example to add bigger hills)
 
 
-## Notes:
+# Notes:
   - Do not change the name of the pile or object collections after importing or things will break
   - If you want to add your own object collections do so in the collections.blend file 
 
