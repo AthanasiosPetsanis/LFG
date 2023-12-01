@@ -29,30 +29,37 @@ So what do these do?
   - You need to wait for the animation to end until you have realisticly formed piles (this could be cumbersome in slower computer)
   - The more objects you add the slower the animation will be
 
-# Motivation & Usefullness
-  - Evaluation of drone path planning algorithms (via drone simulators like [AirSim]([url](https://github.com/microsoft/AirSim)) or other methods)
-  - Acquisition of synthetic images of landfills (the same simulator as above)
-  - Evaluation of photogrammetry algorithms for landfills (we know have the 3D model ground-truth)
-  - Evaluation of volumetry algorithms (we know the volume ground-truth of the waste)
+### Motivation & Usefullness
+  - Evaluation of drone path planning algorithms for landfill coverage (via drone simulators like [AirSim]([url](https://github.com/microsoft/AirSim)) or other methods)
+  - Acquisition of synthetic images of landfills (via the same simulator as above)
+  - Evaluation of photogrammetry algorithms for landfills (we now have the 3D model ground-truth)
+  - Evaluation of volumetry algorithms (we now the volume ground-truth of the waste)
   - Augmentation of landfill UAV images with synthetic image data of realistic landfills
 There have been few publically available datasets involving UAV images from real landfills. It is a well-known strategy to augment datasets with synthetic data and there exist drone simulators for capturing images in the virtual world. LFG 
 
-# Prerequisities
+
+# How to install:
+Watch the video below or follow the instructions. 
+
+### Prerequisities
 LFG has been tested in the latest (as of 01/12/2023) Blender 4.0.1 version.
 It requires 2 seperate addons that come preinstalled with Blender to be enabled. These are:
   - The "Add Mesh: A.N.T.Landscape" addon and
   - The "3D-print: toolbox" addon
 
-One last thing needed is to download the files in this [google drive](https://drive.google.com/drive/folders/1ZYW_dM9MNbglxhVGaa26qd7RBJJUuXMa?usp=sharing) and place them inside the folder. This is so that you can have the prescanned landscapes and object collections (they were too big for github).
+One last thing needed is to download the files in this [google drive](https://drive.google.com/drive/folders/1ZYW_dM9MNbglxhVGaa26qd7RBJJUuXMa?usp=sharing) and place them inside the folder (and unzip them). This is so that you can have the prescanned landscapes and object collections (they were too big for github).
 
-# How to install:
+
 After you made sure the prequisite addons are enabled and after you downloaded the zip file and extract it:
   1) In Blender, go to Edit --> Preferences --> Addons and click install at the top right 
-[image]
   2) Then select the lfg.zip file inside of the extracted file.
   3) The addon is located in the Panel section. Click on the Panel "LFG"
   4) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects.
 That's it! you can now use the addon however you like.
+
+
+https://github.com/AthanasiosPetsanis/LFG/assets/54399132/4706d96b-19b6-42f6-98d1-c320321493a6
+
 
 # Documentation:
 The
@@ -64,7 +71,4 @@ For more details you can refer to the Blender documentation of the addon [here](
   - If you want to add your own object collections do so in the collections.blend file 
 
 # Credit
-This addon relies on different 3D models and addons. Below is a list of the creators and their corresponding work:
-  - dfs
-  - dsfs
-  - 
+This addon relies on different 3D models and addons. The text file "Credits.txt" has links to the objects used.
