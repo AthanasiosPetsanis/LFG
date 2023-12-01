@@ -5,14 +5,13 @@ It consists of 4 main parts:
   2) The Pile Generation
   3) Volume estimation and
   4) Utilities
+![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/dd041d95-05b5-4d0b-b200-cc3fe4b32f71)
 
 So what do these do?
 1) The **Landscape Generation** generates a realistic landscape (with a randomly selected drone-captured texture, and random topography).
 2) The **Pile Generation** first generates waste in the shape of a cone for any chosen collection, with randomness in scale, location and rotation. Then the next step is letting the Blender simulation run until the waste fall into place forming an accurate pile. You can create as many piles as you want and of any type this way.
 3) You can calculate the volume of each pile with **Volume Estimation**.
 4) The **Utilities** section allows you to apply the transformation of the piles and join the objects into one entity (useful for importing into simulators).
-
-[images] 
 
 ### Advantages
   - Inexhaustible amount of 3D landfill models
