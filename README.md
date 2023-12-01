@@ -106,18 +106,18 @@ Let's take it section-by-section:
        - ApplyTransformations button: Applies the all transformations to all objects for all piles (This is useful so that you do not lose the current placement of the objects)
        - Join Objects button: Joins all objects from all piles along with the "Landscape" object in one single object (This is usefull if you want to import to Unreal Engine for example)
     
-  ### Expanding
-  If you would like to use your own objects, landscapes or textures you can do so in the following ways:
-      **Objects:** Open the "collection.blend" file you downloaded from the google drive and create a new collection with your objects or add them inside existing collections
-      **Landscapes:** Open the "landscapes.blend" file you downloaded from the google drive and create a new collection with the landscape object you want to include (or just import it).
-      **Textures:** Go to the Ground Textures folder inside the LFG-main folder and add the folder with the textures. Make sure that the folder you add has the following hierarchy:
-        - Texture_name/
-            - textures/
-                - Texture_name_diff.jpg
-                - Texture_name_disp.png
-                - Texture_name_nor_gl.exr
-                - Texture_name_rough.jpg
-      The _diff is for the diffusion, _disp for the displacement, nor_gl for the normal map and rough for the roughness. You can find more such textures [here](https://polyhaven.com/textures/aerial)
+### Expanding
+If you would like to use your own objects, landscapes or textures you can do so in the following ways:
+  - **Objects:** Open the "collection.blend" file you downloaded from the google drive and create a new collection with your objects or add them inside existing collections
+  - **Landscapes:** Open the "landscapes.blend" file you downloaded from the google drive and create a new collection with the landscape object you want to include (or just import it).
+  - **Textures:** Go to the Ground Textures folder inside the LFG-main folder and add the folder with the textures. Make sure that the folder you add has the following hierarchy:
+    - Texture_name/
+        - textures/
+            - Texture_name_diff.jpg
+            - Texture_name_disp.png
+            - Texture_name_nor_gl.exr
+            - Texture_name_rough.jpg
+    The _diff is for the diffusion, _disp for the displacement, nor_gl for the normal map and rough for the roughness. You can find more such textures [here](https://polyhaven.com/textures/aerial)
       
 
 This is the easy way for creating a landscape. Of course, you could use the A.N.T.Landscape addon however you want and/or do some easy sculpting on Blender (for example to add bigger hills)
