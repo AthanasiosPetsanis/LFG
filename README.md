@@ -1,18 +1,18 @@
 # LFG
 LFG (short for LandFill Generator) is a Blender addon that allows you to easily create realistic and diverse large scale 3D landfill models and estimate the volume and area of the landfill.
 It consists of 4 main parts:
-  1) The Landscape Generation
-  2) The Pile Generation
-  3) Volume estimation and
+  1) Add main path
+  2) The Landscape Generation
+  3) The Pile Generation with Volume estimation and
   4) Utilities
 
-     
-![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/dd041d95-05b5-4d0b-b200-cc3fe4b32f71)
+     ![example](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/a45883f2-3c8c-46be-b775-65180c0fc9db)
+
 
 So what do these do?
-1) The **Landscape Generation** generates a realistic landscape (with a randomly selected drone-captured texture, and random topography).
-2) The **Pile Generation** first generates waste in the shape of a cone for any chosen collection, with randomness in scale, location and rotation. Then the next step is letting the Blender simulation run until the waste fall into place forming an accurate pile. You can create as many piles as you want and of any type this way.
-3) You can calculate the volume of each pile with **Volume Estimation**.
+1) The **main path** is where the github folder is located. You need to add this path for the addon to work properly
+2) The **Landscape Generation** generates a realistic landscape (with a randomly selected drone-captured texture, and random topography).
+3) The **Pile Generation** first generates waste in the shape of a cone for any chosen collection, with randomness in scale, location and rotation. Then the next step is letting the Blender simulation run until the waste fall into place forming an accurate pile. You can create as many piles as you want and of any type this way. You can calculate the volume of each pile with the Volume Estimation.
 4) The **Utilities** section allows you to apply the transformation of the piles and join the objects into one entity (useful for importing into simulators).
 
 ### Advantages
@@ -124,6 +124,7 @@ If you would like to use your own objects, landscapes or textures you can do so 
 
 
 # Notes:
+  - The Mountainous terrain is large and complex coupled with object phyciques as they fall it might end up crashing the Blender project
   - Do not change the name of the pile or object collections after importing or things will break
   - If you want to add your own object collections do so in the collections.blend file 
 
