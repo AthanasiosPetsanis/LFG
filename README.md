@@ -10,9 +10,9 @@ It consists of 4 main parts:
 
 
 So what do these do?
-1) The **Landscape Generation** generates a realistic landscape (with a randomly selected drone-captured texture, and random topography).
-2) The **Pile Generation** first generates waste in the shape of a cone for any chosen collection, with randomness in scale, location and rotation. Then the next step is letting the Blender simulation run until the waste fall into place forming an accurate pile. You can create as many piles as you want and of any type this way.
-3) You can calculate the volume of each pile with **Volume Estimation**.
+1) The **main path** is where the github folder is located. You need to add this path for the addon to work properly
+2) The **Landscape Generation** generates a realistic landscape (with a randomly selected drone-captured texture, and random topography).
+3) The **Pile Generation** first generates waste in the shape of a cone for any chosen collection, with randomness in scale, location and rotation. Then the next step is letting the Blender simulation run until the waste fall into place forming an accurate pile. You can create as many piles as you want and of any type this way. You can calculate the volume of each pile with the Volume Estimation.
 4) The **Utilities** section allows you to apply the transformation of the piles and join the objects into one entity (useful for importing into simulators).
 
 ### Advantages
