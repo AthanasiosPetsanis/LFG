@@ -1,9 +1,9 @@
 # LFG
 LFG (short for LandFill Generator) is a Blender addon that allows you to easily create realistic and diverse large scale 3D landfill models and estimate the volume and area of the landfill.
 It consists of 4 main parts:
-  1) The Landscape Generation
-  2) The Pile Generation
-  3) Volume estimation and
+  1) Add main path
+  2) The Landscape Generation
+  3) The Pile Generation with Volume estimation and
   4) Utilities
 
      ![example](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/a45883f2-3c8c-46be-b775-65180c0fc9db)
