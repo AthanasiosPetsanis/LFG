@@ -6,7 +6,7 @@ It consists of 4 main parts:
   3) Volume estimation and
   4) Utilities
 
-     ![example](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/c0cdf238-2e37-47ba-82aa-3f1f3242bc41)
+     ![example](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/a45883f2-3c8c-46be-b775-65180c0fc9db)
 
 
 So what do these do?
