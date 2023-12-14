@@ -69,6 +69,8 @@ After you made sure the prequisite addons are enabled and after you downloaded t
 
   7)  The addon is located in the 3D-View Panel section. Click on the Panel "LFG"
   8) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects. Make sure it points to the folder of the main project and not a file. For example:
+     
+  
 ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/4dea43af-4386-4952-bc56-a41e44ffa2a7)
 
 That's it! you can now use the addon however you like.
