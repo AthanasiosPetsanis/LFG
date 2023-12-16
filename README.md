@@ -49,9 +49,8 @@ https://github.com/AthanasiosPetsanis/LFG/assets/54399132/5c4be64e-d2cf-41f4-959
 
 ### Prerequisities
 LFG has been tested in the latest (as of 01/12/2023) Blender 4.0.1 version.
-It requires 2 seperate addons that come preinstalled with Blender to be enabled. These are:
-  - The "Add Mesh: A.N.T.Landscape" addon and
-  - The "3D-print: toolbox" addon
+It requires 1 seperate addon that comes preinstalled with Blender to be enabled. This is the **"Add Mesh: A.N.T.Landscape"** addon:
+  
 ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/d1205099-bb31-4665-bdd6-e3c723bab4e7)
 
 One last thing needed is to download the files in this [google drive](https://drive.google.com/drive/folders/1ZYW_dM9MNbglxhVGaa26qd7RBJJUuXMa?usp=sharing) and place them inside the folder (and unzip them). This is so that you can have the prescanned landscapes and object collections (they were too big for github).
