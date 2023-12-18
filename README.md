@@ -67,7 +67,7 @@ After you made sure the prequisite addons are enabled and after you downloaded t
      ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/a912aa1a-3646-4700-9f68-c8696c5f475a)
 
   7)  The addon is located in the 3D-View Panel section. Click on the Panel "LFG"
-  8) Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects. Make sure it points to the folder of the main project and not a file. For example:
+  8) **IMPORTANT:** Assign the path of the extracted file so that you can have access to all the textures, pre-made landscapes and 3D waste objects. Make sure it points to the folder of the main project and not a file. For example:
      
   
 ![image](https://github.com/AthanasiosPetsanis/LFG/assets/54399132/4dea43af-4386-4952-bc56-a41e44ffa2a7)
