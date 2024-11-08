@@ -3,19 +3,19 @@ title: 'LFG: An easy-to-use realistic synthetic LandFill Generator'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: software
+type: article
 authors:
   - given-names: Thanos
     family-names: Petsanis
     email: athpets@iti.gr
     affiliation: CERTH - The Centre for Research & Technology
     orcid: 'https://orcid.org/0009-0005-2199-2461'
-  - given-names: Athanasios
+  - given-names: Athanasios Ch.
     family-names: Kapoutsis
     orcid: 'https://orcid.org/0000-0002-1688-036X'
     email: athakapo@iti.gr
     affiliation: CERTH - The Centre for Research & Technology
-  - given-names: Elias
+  - given-names: Elias B.
     family-names: Kosmatopoulos
     email: kosmatop@iti.gr
     orcid: 'https://orcid.org/0000-0002-3735-4238'
