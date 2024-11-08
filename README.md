@@ -136,9 +136,12 @@ This addon relies on different 3D models and addons. The text file "Credits.txt"
 
 # Citation
 Please cite [this paper]([url](https://www.sciencedirect.com/science/article/pii/S2352711024003066)) if you use LFG in your work:
+
 Petsanis, T., Kapoutsis, A. C., & Kosmatopoulos, E. B. (2024). LFG: An easy-to-use realistic synthetic LandFill Generator. SoftwareX, Volume 28.
+
 bibtex:
-@article{PETSANIS2024101936,
+
+```@article{PETSANIS2024101936,
 title = {LFG: An easy-to-use realistic synthetic LandFill Generator},
 journal = {SoftwareX},
 volume = {28},
