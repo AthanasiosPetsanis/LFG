@@ -134,14 +134,11 @@ If you would like to use your own objects, landscapes or textures you can do so 
 # Credit
 This addon relies on different 3D models and addons. The text file "Credits.txt" has links to the objects used.
 
-# Citation
-Please cite [this paper]([url](https://www.sciencedirect.com/science/article/pii/S2352711024003066)) if you use LFG in your work:
+# Cite as:
+*Petsanis, T., & Kapoutsis, A. C. Lfg: An Easy-to-Use Realistic Synthetic Landfill Generator. Available at SSRN 4771989.* [[Link](https://www.sciencedirect.com/science/article/pii/S2352711024003066)]
 
-Petsanis, T., Kapoutsis, A. C., & Kosmatopoulos, E. B. (2024). LFG: An easy-to-use realistic synthetic LandFill Generator. SoftwareX, Volume 28.
-
-bibtex:
-
-```@article{PETSANIS2024101936,
+```bibtex
+@article{PETSANIS2024101936,
 title = {LFG: An easy-to-use realistic synthetic LandFill Generator},
 journal = {SoftwareX},
 volume = {28},
@@ -154,3 +151,5 @@ author = {Thanos Petsanis and Athanasios Ch. Kapoutsis and Elias B. Kosmatopoulo
 keywords = {Landfill, 3D model, Synthetic data generation, Blender, Waste},
 abstract = {In this paper we present a Blender add-on named LFG that allows for easy, large and realistic, 3D model LandFill Generation. Large datasets of vast, diverse synthetic landfills are hard to come by, and greatly in need for the purposes of developing and evaluating a multitude of algorithms (e.g. waste classification, 3D-reconstruction, volume estimation algorithms) in the context of research against environment crime. Additionally, they can be used alongside UAV simulators for the development of path-planning algorithms. Although there are some 3D models of landfills available on online 3D-model marketplaces, these are often expensive, low-quality, low-variety and unalterable models. LFG offers customizable, expandable options and realistic features tailored for landfill generation and research.}
 }
+
+```
