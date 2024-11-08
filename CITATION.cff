@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'LFG: An easy-to-use realistic synthetic LandFill Generator'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thanos
+    family-names: Petsanis
+    email: athpets@iti.gr
+    affiliation: CERTH - The Centre for Research & Technology
+    orcid: 'https://orcid.org/0009-0005-2199-2461'
+  - given-names: Athanasios
+    family-names: Kapoutsis
+    orcid: 'https://orcid.org/0000-0002-1688-036X'
+    email: athakapo@iti.gr
+    affiliation: CERTH - The Centre for Research & Technology
+  - given-names: Elias
+    family-names: Kosmatopoulos
+    email: kosmatop@iti.gr
+    orcid: 'https://orcid.org/0000-0002-3735-4238'
+    affiliation: CERTH - The Centre for Research & Technology
+identifiers:
+  - type: doi
+    value: 10.1016/j.softx.2024.101936
+  - type: url
+    value: >-
+      https://www.sciencedirect.com/science/article/pii/S2352711024003066
+repository-code: 'https://github.com/AthanasiosPetsanis/LFG'
+abstract: >-
+  In this paper we present a Blender add-on named LFG that
+  allows for easy, large and realistic, 3D model LandFill
+  Generation. Large datasets of vast, diverse synthetic
+  landfills are hard to come by, and greatly in need for the
+  purposes of developing and evaluating a multitude of
+  algorithms (e.g. waste classification, 3D-reconstruction,
+  volume estimation algorithms) in the context of research
+  against environment crime. Additionally, they can be used
+  alongside UAV simulators for the development of
+  path-planning algorithms. Although there are some 3D
+  models of landfills available on online 3D-model
+  marketplaces, these are often expensive, low-quality,
+  low-variety and unalterable models. LFG offers
+  customizable, expandable options and realistic features
+  tailored for landfill generation and research.
+license: MIT
+version: '1.0'
+date-released: '2023-12-18'
