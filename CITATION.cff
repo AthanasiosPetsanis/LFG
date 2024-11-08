@@ -3,7 +3,7 @@ title: 'LFG: An easy-to-use realistic synthetic LandFill Generator'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: article
+type: software
 authors:
   - given-names: Thanos
     family-names: Petsanis
