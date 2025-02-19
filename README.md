@@ -135,28 +135,19 @@ If you would like to use your own objects, landscapes or textures you can do so 
 This addon relies on different 3D models and addons. The text file "Credits.txt" has links to the objects used.
 
 # Cite as:
-*Petsanis, T., Keroglou, C., Kapoutsis, A. C., Kosmatopoulos E. B., & Sirakoulis G. Ch. (2023). Decomposing user-defined tasks in a reinforcement learning setup using TextWorld.* [[Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1280578/full)]
+*Petsanis, T., & Kapoutsis, A. C. Lfg: An Easy-to-Use Realistic Synthetic Landfill Generator. Available at SSRN 4771989.* [[Link](https://www.sciencedirect.com/science/article/pii/S2352711024003066)]
 
 ```bibtex
-@ARTICLE{10.3389/frobt.2023.1280578,
-
-AUTHOR={Petsanis, Thanos  and Keroglou, Christoforos  and Ch. Kapoutsis, Athanasios  and Kosmatopoulos, Elias B.  and Sirakoulis, Georgios Ch. },
-
-TITLE={Decomposing user-defined tasks in a reinforcement learning setup using TextWorld},
-
-JOURNAL={Frontiers in Robotics and AI},
-
-VOLUME={10},
-
-YEAR={2023},
-
-URL={https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1280578},
-
-DOI={10.3389/frobt.2023.1280578},
-
-ISSN={2296-9144},
-
-ABSTRACT={<p>The current paper proposes a hierarchical reinforcement learning (HRL) method to decompose a complex task into simpler sub-tasks and leverage those to improve the training of an autonomous agent in a simulated environment. For practical reasons (i.e., illustrating purposes, easy implementation, user-friendly interface, and useful functionalities), we employ two Python frameworks called TextWorld and MiniGrid. MiniGrid functions as a 2D simulated representation of the real environment, while TextWorld functions as a high-level abstraction of this simulated environment. Training on this abstraction disentangles manipulation from navigation actions and allows us to design a dense reward function instead of a sparse reward function for the lower-level environment, which, as we show, improves the performance of training. Formal methods are utilized throughout the paper to establish that our algorithm is not prevented from deriving solutions.</p>}}
-}
-
+@article{PETSANIS2024101936,
+title = {LFG: An easy-to-use realistic synthetic LandFill Generator},
+journal = {SoftwareX},
+volume = {28},
+pages = {101936},
+year = {2024},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2024.101936},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711024003066},
+author = {Thanos Petsanis and Athanasios Ch. Kapoutsis and Elias B. Kosmatopoulos},
+keywords = {Landfill, 3D model, Synthetic data generation, Blender, Waste},
+abstract = {In this paper we present a Blender add-on named LFG that allows for easy, large and realistic, 3D model LandFill Generation. Large datasets of vast, diverse synthetic landfills are hard to come by, and greatly in need for the purposes of developing and evaluating a multitude of algorithms (e.g. waste classification, 3D-reconstruction, volume estimation algorithms) in the context of research against environment crime. Additionally, they can be used alongside UAV simulators for the development of path-planning algorithms. Although there are some 3D models of landfills available on online 3D-model marketplaces, these are often expensive, low-quality, low-variety and unalterable models. LFG offers customizable, expandable options and realistic features tailored for landfill generation and research.}
 ```
